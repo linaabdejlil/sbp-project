@@ -1,4 +1,3 @@
-import React from 'react';
 import { Building2, MapPin, Clock } from 'lucide-react';
 import { Job } from '../types';
 import { Button } from './ui/Button';
